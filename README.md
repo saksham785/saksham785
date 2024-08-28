@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saksham Singh</h1>
 <h3 align="center">Passionate about Deep Learning | Based in India</h3>
 
-- 🔭 I’m currently working on **BUILDING A ICEGATE CHATBOT**
+- 🔭 I’m currently working on **improving Self-Attention GAN Model**
 
-- 🌱 I’m currently learning **Machine learning, Deep learning(NLP, image segmentation), Dashboards**
+- 🌱 I’m currently learning **Machine learning, Deep learning(NLP, image segmentation), Generative AI, Dashboards**
 
 - 📫 How to reach me **saksham.singh785@gmail.com**
 
