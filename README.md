@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saksham Singh</h1>
-<h3 align="center">Passionate about Machine Learning | Based in India</h3>
+<h3 align="center">Passionate about Deep Learning | Based in India</h3>
 
 - 🔭 I’m currently working on **BUILDING A ICEGATE CHATBOT**
 
