@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving Self-Attention GAN Model**
 
-- 🌱 I’m currently learning **Machine learning, Deep learning(NLP, image segmentation), Generative AI, Dashboards**
+- 🌱 I’m currently learning **Machine learning, Deep learning(NLP, Computer Vision), Generative AI, Dashboards**
 
 - 📫 How to reach me **20ce02008@iitbba.ac.in**
 
