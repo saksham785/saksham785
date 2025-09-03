@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saksham Singh</h1>
-<h3 align="center">Structural Engineer | Passionate about Deep Learning | Based in India</h3>
+<h3 align="center">Structural Engineer | Passionate about Artificial Intelligence | Based in India</h3>
 
 - 🔭 I’m currently working on **improving Self-Attention GAN Model**
 
