@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine learning, Deep learning(NLP, Computer Vision), Generative AI, Dashboards**
 
-- 📫 How to reach me **20ce02008@iitbba.ac.in**
+- 📫 How to reach me **20ce02008@iitbbs.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
